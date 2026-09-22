@@ -1,6 +1,6 @@
 # WAY-O-AI — Python prototype
 
-School / science-fair software for the pitch deck **WAY-O-AI: An Innovation for Traffic & Pollution Management**.
+pitch deck **WAY-O-AI: An Innovation for Traffic & Pollution Management**.
 
 This folder is the **computer-vision + database** part of the idea:
 
