@@ -1,0 +1,11 @@
+plate,owner_name,phone,fuel,make,model,year,emission_standard,co2_g_per_km,co2_kg_per_day,puc_valid,city
+DL3CA1234,Rajesh Sharma,9000000001,Petrol,Honda,City,2018,BS4,143,20,Yes,Delhi
+MH02AB5678,Priya Patel,9000000002,Diesel,Hyundai,Creta,2019,BS6,168,18,No,Mumbai
+GJ01XY9876,Aryan Singh,9000000003,Diesel,Mahindra,XUV700,2022,BS6,179,22,Yes,Ahmedabad
+KA05CD4321,Meera Rao,9000000004,Electric,Tata,Nexon EV,2023,ZEV,0,0,Yes,Bengaluru
+TN07EF8765,Ananya Gupta,9000000005,Diesel,Toyota,Innova,2016,BS4,192,25,No,Chennai
+MH12AB1234,Aman Kulkarni,9000000006,Petrol,Maruti Suzuki,Swift,2021,BS6,113,12,Yes,Pune
+KA03EF9012,Neha Iyer,9000000007,Electric,Tata,Nexon EV,2023,ZEV,0,0,Yes,Bengaluru
+HR26WX2345,Kabir Malik,9000000008,Diesel,Mahindra,Thar,2015,BS4,218,28,No,Gurugram
+KL07UV8901,Sana Menon,9000000009,Hybrid,Toyota,Camry Hybrid,2022,BS6,98,8,Yes,Kochi
+UP32LM2345,Rohit Verma,9000000010,Petrol,Maruti Suzuki,Alto,2014,BS4,118,14,No,Lucknow

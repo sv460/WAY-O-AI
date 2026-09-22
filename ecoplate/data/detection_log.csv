@@ -1,0 +1,5 @@
+timestamp,source,plate,known,vehicle,fuel,co2_g_per_km,co2_kg_per_day,puc_valid,alert_level,air_ppm
+2026-09-21T15:28:27,DL3CA1234.jpg,DL3CA1234,True,Honda City (2018),Petrol,143.0,20.0,True,OK,
+2026-09-21T15:28:31,MH02AB5678.jpg,MH02AB5678,True,Hyundai Creta (2019),Diesel,168.0,18.0,False,WARNING,
+2026-09-21T15:28:34,KA05CD4321.jpg,KA05CD4321,True,Tata Nexon EV (2023),Electric,0.0,0.0,True,OK,
+2026-09-21T15:28:37,TN07EF8765.jpg,TN07EF8765,True,Toyota Innova (2016),Diesel,192.0,25.0,False,WARNING,
