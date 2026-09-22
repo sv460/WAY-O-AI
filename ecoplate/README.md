@@ -1,22 +1,20 @@
 # WAY-O-AI — Python prototype
 
-pitch deck **WAY-O-AI: An Innovation for Traffic & Pollution Management**.
+pitch deck for **WAY-O-AI: An Innovation for Traffic & Pollution Management**.
 
 This folder is the **computer-vision + database** part of the idea:
 
-1. Read a car number plate from a photo.
-2. Look the plate up in a local sample registry.
-3. Show estimated CO2 and whether the PUC is valid.
-4. Print a **simulated** warning (no real SMS, no real police system).
-5. Save a log and an annotated picture.
+1. Reads a car number plate from a photo.
+2. Looks the plate up in a local sample registry.
+3. Shows estimated CO2 and whether the PUC is valid.
+4. Prints a **simulated** warning (no real SMS, no real police system).
+5. Saves a log and an annotated picture.
 
-The names and phone numbers in `data/vehicles.csv` are **fake classroom data**. Do not collect real owner details.
+The names and phone numbers in `data/vehicles.csv` are **fake classroom data**.
 
 ---
 
-## What the pitch already planned
-
-From your deck, WAY-O-AI has three layers:
+ WAY-O-AI has three layers:
 
 | Layer | In the pitch | What you still do |
 | --- | --- | --- |
