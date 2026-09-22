@@ -102,11 +102,10 @@ Keep hardware and Python separate at first.
 python3 app.py --image samples/TN07EF8765.jpg --ppm 1024
 ```
 
-Do this only after plate detection works on photos.
 
 ---
 
-## What you should do next (project checklist)
+##  (project checklist)
 
 1. Run `python3 app.py --demo` and save screenshots for the report.
 2. Photograph your cardboard cars so the plate is large and straight. Add those photos to `samples/`.
@@ -117,10 +116,3 @@ Do this only after plate detection works on photos.
 7. Only if extra time: try YOLOv8 plate detection on a Raspberry Pi (your “future prospects” slide).
 
 ---
-
-## Safety and school rules
-
-- This is a **demo**, not a real fine system.
-- Do not photograph strangers’ cars and store their plates for fun.
-- Do not send real SMS or claim you can issue a chalan.
-- Use only fake owner names in the CSV.
