@@ -1,4 +1,4 @@
-"""Draw simple rear-of-car pictures with number plates so the demo runs without a camera."""
+
 
 from __future__ import annotations
 
