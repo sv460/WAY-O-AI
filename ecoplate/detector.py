@@ -1,12 +1,6 @@
-"""
-License-plate finder + reader for the WAY-O-AI school prototype.
-
-Steps:
-1. Clean the photo and find edges.
-2. Keep rectangle-shaped regions that look like number plates.
-3. Read letters/digits with Tesseract OCR.
-4. Fix common 0/O and 1/I mistakes, then snap to a known plate if very close.
-"""
+'''
+License-plate finder + reader
+'''
 
 from __future__ import annotations
 
