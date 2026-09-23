@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """
 WAY-O-AI software prototype
-Detect a number plate from a photo, look it up, estimate pollution, log the result.
-
-Examples:
   python3 app.py --demo
   python3 app.py --image samples/DL3CA1234.jpg
   python3 app.py --folder samples
