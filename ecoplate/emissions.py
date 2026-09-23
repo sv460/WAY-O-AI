@@ -1,7 +1,4 @@
-"""
-Match a number plate to the local WAY-O-AI registry and decide the alert.
-Owner names and phone numbers in the sample file are FAKE classroom data.
-"""
+
 
 from __future__ import annotations
 
